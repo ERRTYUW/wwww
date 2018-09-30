@@ -13,5 +13,5 @@ class Test01():
         allure.attach("断言开始","断言是否更新")
         print("test02被执行了")
         allure.attach("断言结束","断言更新成功")
-    def test03(self):
+    def test04(self):
         print("test03被执行了")
