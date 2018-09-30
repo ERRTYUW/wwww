@@ -16,3 +16,5 @@ class Test01():
 
     def test04(self):
         print("test03被执行了")
+    def test05(self):
+        print("test05被执行了")
